@@ -24,16 +24,28 @@ Welcome to my GitHub profile!
 
 ---
 
-### 🛠️ Tech Stack (Optional)
-Would you like me to include a section listing your favorite programming languages, tools, or platforms? For example:
+### 🛠️ Tech Stack
 
 ```markdown
-**Languages**: C, C++, Python, Java  
-**Tools**: Git, Docker, ROS, VS Code  
-**Platforms**: Linux, RTOS, Arduino  
+**Languages**  
+C • C++ • Python • MATLAB • Simulink
+
+**Robotics & Control**  
+ROS • ROS2 • Gazebo • RViz • Kalman Filters • Control Systems Design • State Estimation
+
+**Tools & Libraries**  
+Git • Docker • OpenCV • NumPy • TensorFlow • PyTorch
+
+**Embedded Systems & Electronics**  
+Arduino • STM32 (with STM32CubeIDE) • ESP32
+
+**Platforms**  
+Linux • Arduino Boards
+
+**Software & IDEs**  
+VS Code • STM32CubeIDE • MATLAB • Simulink • LabVIEW
+
+**Other Skills**  
+Version Control (GitHub) • Machine Learning • PLC Programming • Robotics Simulation
 
 
-<!---
-FiengoKineton/FiengoKineton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
