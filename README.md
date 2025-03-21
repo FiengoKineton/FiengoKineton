@@ -12,8 +12,8 @@ Welcome to my GitHub profile!
 
 ### 🎓 Academic Background
 
-- **Bachelor’s Degree**: Computer Engineering @ [Università di Napoli Federico II (UniNa)](https://www.unina.it/)
-- **Master’s Degree**: Embedded Systems @ [KTH Royal Institute of Technology](https://www.kth.se/en)
+- **Bachelor’s Degree**: Automation Engineering @ [Università di Napoli Federico II (UniNa)](https://www.unina.it/)
+- **Master’s Degree**: Systems, Control and Robotics @ [KTH Royal Institute of Technology](https://www.kth.se/en)
 
 ---
 
