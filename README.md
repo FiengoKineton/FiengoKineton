@@ -20,7 +20,7 @@ Welcome to my GitHub profile!
 ### 📫 Contact
 
 - 📧 Email: g7.fiengo@gmail.com  
-- 🔗 LinkedIn (optional): _www.linkedin.com/in/giuseppe-fiengo-383b11155_  
+- 🔗 LinkedIn: _www.linkedin.com/in/giuseppe-fiengo-383b11155_  
 
 ---
 
@@ -37,7 +37,7 @@ ROS • ROS2 • Gazebo • RViz • Kalman Filters • Control Systems Design �
 Git • Docker • OpenCV • NumPy • TensorFlow • PyTorch
 
 **Embedded Systems & Electronics**  
-Arduino • STM32 (with STM32CubeIDE) • ESP32
+Arduino • STM32 • ESP32
 
 **Platforms**  
 Linux • Arduino Boards
